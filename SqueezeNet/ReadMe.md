@@ -6,6 +6,7 @@ I have tried to make the code as simple as possible.
 It comes in two versions:
 
 1- Vanilla SqueezeNet (simple_model.py)
+
 2- SqueezeNet with simple bypass connections (bypass_model.py)
 
 For more information, please refer to the original paper.
